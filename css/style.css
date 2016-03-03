@@ -29,9 +29,11 @@ h6 {
     letter-spacing: 1px;
 }
 
-p {
+#presentation p, #remerciements p{
+    text-align: left;
     margin: 0 0 20px;
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: bold;
     line-height: 1.6em;
 }
 
