@@ -1,0 +1,7 @@
+#enquete .graphique {
+  margin-bottom: 50px;
+}
+
+#enquete .graphique:last-child {
+  margin-bottom: 0px !important;
+}
