@@ -37,6 +37,20 @@ h6 {
     line-height: 1.6em;
 }
 
+.dernier-bar, .chimeres {
+  background: none !important;
+}
+
+.dernier-bar i img {
+  max-height: 40px ! important;
+  max-width: 40px ! important;
+}
+
+.chimeres i img {
+  max-height: 40px ! important;
+  max-width: 40px ! important;
+}
+
 p.lead {
 	font-weight: 600;
 }
